@@ -41,8 +41,6 @@ Develop a modern data warehouse using PostgreSQL Server to consolidate sales dat
 
 --
 
-For more details, refer to [documents/requirements.md](documents/requirements.md).
-
 ## 📂 Repository Structure
 ```
 data-warehouse-project/
